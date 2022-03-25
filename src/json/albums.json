@@ -1,0 +1,32 @@
+[
+    {
+        "title": "LOSER",
+        "artist":"米津玄師",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/20200418%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%E5%8F%B0%E5%8C%97%E6%BC%94%E5%94%B1%E6%9C%83%E8%A6%96%E8%A6%BA-%E4%B8%8D%E5%90%AB%E6%96%87%E5%AD%97-1579603208.jpg",
+        "thumbnail_image": "https://cdn.suruga-ya.jp/database/pics_light/game/120098029.jpg"
+    },
+    {
+        "title": "Lemon",
+        "artist":"米津玄師",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/20200418%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%E5%8F%B0%E5%8C%97%E6%BC%94%E5%94%B1%E6%9C%83%E8%A6%96%E8%A6%BA-%E4%B8%8D%E5%90%AB%E6%96%87%E5%AD%97-1579603208.jpg",
+        "thumbnail_image": "https://upload.wikimedia.org/wikipedia/zh/d/dd/Lemon_by_Kenshi_Yonezu_cover.jpg"
+    },
+    {
+        "title": "打上花火",
+        "artist":"DAOKO x 米津玄師",
+        "image": "https://ogre.natalie.mu/media/pp/static/music/daoko04/pc_header.jpg",
+        "thumbnail_image": "https://upload.wikimedia.org/wikipedia/zh/c/c3/Uchiage_Hanabi_Cover_by_DAOKO.jpg"
+    },
+    {
+        "title": "灰色と青",
+        "artist":"米津玄師 x 菅田将暉",
+        "image": "http://kenshin.hk/blog/jdnews/201910/20191016-2.jpg",
+        "thumbnail_image": "https://omusic.friday.tw/img/album/1377204.jpg"
+    },
+    {
+        "title": "Pale Blue",
+        "artist":"米津玄師",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/20200418%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%E5%8F%B0%E5%8C%97%E6%BC%94%E5%94%B1%E6%9C%83%E8%A6%96%E8%A6%BA-%E4%B8%8D%E5%90%AB%E6%96%87%E5%AD%97-1579603208.jpg",
+        "thumbnail_image": "https://img.mymusic.net.tw/mms/album/L/861/5201861.jpg"
+    }
+]
